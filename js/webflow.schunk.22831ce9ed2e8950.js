@@ -841,7 +841,7 @@
                                 marginRight: "4px",
                                 width: "26px"
                             }),
-                            a = e("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg").attr("alt", "Made in Webflow");
+                            a = 0;
                         return t.append(n, a), t[0]
                     }(), u(), setTimeout(u, 500), e(i).off(d, s).on(d, s))
                 };
